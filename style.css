@@ -1,0 +1,49 @@
+body{
+background-color: #012634;
+font-family: fantasy;
+}
+
+h1 {
+  text-align: center;
+  color: tomato;
+}
+
+
+p {
+  color: grey;
+text-align: center;
+}
+
+a {
+  margin-left: 45%;
+}
+
+ul {
+  text-align: justify;
+  color: grey;
+display: inline-block;
+  margin-left: 45%
+  ;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+.bilde {
+  width: 250px;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-right: auto;
+  margin-left:auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  -webkit-transform:rotate(90deg):
+  -moz-transform: rotate(90deg);
+  -0-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg)
+}
